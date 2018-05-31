@@ -1,7 +1,8 @@
 package com.bit.test;
 
 public class Calculator {
-	
+
+	//java coding
 int a = 10;
 int b = 15;
 
