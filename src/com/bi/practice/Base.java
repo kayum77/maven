@@ -11,7 +11,7 @@ public class Base {
 	
 	
 	
-	WebDriver dr;
+	ChromeDriver dr;
 	
 	@Before
 	public void openBrowser() {
